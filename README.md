@@ -13,4 +13,4 @@ Login Form Design – A responsive login form layout.
 Contact
 📧 syedaalia2025@gmail.com
 💻 GitHub Profile
-🔗 LinkedIn: Coming soon
+🔗 LinkedIn: https://www.linkedin.com/in/alia-rubab-073593395
