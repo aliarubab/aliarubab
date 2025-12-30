@@ -12,5 +12,5 @@ Coffee Shop Landing Page – A creative page built with HTML and CSS.
 Login Form Design – A responsive login form layout.
 Contact
 📧 syedaalia2025@gmail.com
-💻 GitHub Profile
+💻 GitHub Profile https://github.com/aliarubab/
 🔗 LinkedIn: https://www.linkedin.com/in/alia-rubab-073593395
